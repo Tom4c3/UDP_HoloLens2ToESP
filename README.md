@@ -1,0 +1,2 @@
+# UDP_HoloLens2ToESP
+HoloLens2(Unity)から同一ネットワークに接続したESP32にUDP通信を送りLEDをオンオフするプログラムです．
